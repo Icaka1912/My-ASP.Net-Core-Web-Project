@@ -1,0 +1,116 @@
+﻿@page
+@model RentACarWebApp.Pages.bmw740luxuryModel
+@{
+	ViewData["Title"] = "BMW 740";
+}
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="bmwluxuryfirsthead">BMW 740</h1>
+<h3 class="bmwluxurysecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>BMW</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>740</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Sedan</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>
+            Diesel
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>Horse powers</th>
+        <td>
+            300 h.p
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>80 l</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+            August 2023
+        </td>
+    </tr>
+</table>
+
+<h1 class="bmwluxurythirdhead">Gallery</h1>
+<img src="~/bmwluxury.png" alt="bmwluxury" id="bmwluxury0" height="500" width="700" />
+<img src="~/bmwluxury1.png" alt="bmwluxury1" id="bmwluxury1" height="500" width="700" />
+<img src="~/bmwluxury2.png" alt="bmwluxury2" id="bmwluxury2" height="500" width="700" />
+<img src="~/bmwluxury3.png" alt="bmwluxury3" id="bmwluxury3" height="500" width="700" />
+<img src="~/bmwluxury4.png" alt="bmwluxury4" id="bmwluxury4" height="500" width="700" />
+<img src="~/bmwluxury5.png" alt="bmwluxury5" id="bmwluxury5" height="500" width="700" />
+<h4 class="bmwluxuryfourthhead">Locations - Pieces:</h4>
+<p class="bmwluxuryfifthhead">Plovdiv-1</p>
+<p class="bmwluxurysixthhead">Varna-1</p>
+<h4 class="bmwluxuryseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

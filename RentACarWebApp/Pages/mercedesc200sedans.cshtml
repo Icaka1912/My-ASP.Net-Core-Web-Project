@@ -1,0 +1,116 @@
+﻿@page
+@model RentACarWebApp.Pages.mercedesc200sedansModel
+@{
+	ViewData["Title"] = "Mercedes-Benz C 200";
+}
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position:absolute;
+        left:-50px;
+        top:200px;
+        width: 80%;
+        border:outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th,td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="mercedessedanfirsthead">Mercedes-Benz C 200</h1>
+<h3 class="mercedessedansecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>Mercedes-Benz</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>C 200</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Sedan</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>Gasoline</td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>70 l</td>
+    </tr>
+    <tr>
+        <th>
+            Fuel consumption
+        </th>
+        <td>6.5 l/100 km</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Engine displacement</th>
+        <td>2000 cm<sup>3</sup></td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>november 2022</td>
+    </tr>
+</table>
+
+<h1 class="mercedessedanthirdhead">Gallery</h1>
+<img src="~/mercedessedan1.png" alt="mercedessedanpage" id="mercedessedanpage" height="500" width="700" />
+<img src="~/mercedessedanpage.png" alt="mercedessedanpage1" id="mercedessedanpage1" height="500" width="700" />
+<img src="~/mercedessedanpage2.png" alt="mercedessedanpage2" id="mercedessedanpage2" height="500" width="700" />
+<img src="~/mercedessedanpage3.png" alt="mercedessedanpage3" id="mercedessedanpage3" height="500" width="700" />
+<img src="~/mercedessedanpage4.png" alt="mercedessedanpage4" id="mercedessedanpage4" height="500" width="700" />
+<img src="~/mercedessedanpage5.png" alt="mercedessedanpage5" id="mercedessedanpage5" height="500" width="700" />
+<h4 class="mercedessedanfourthhead">Locations - Pieces:</h4>
+<p class="mercedessedanfifthhead">Plovdiv - 2</p>
+<p class="mercedessedansixthhead">Sofia - 3</p>
+<h4 class="mercedessedanseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

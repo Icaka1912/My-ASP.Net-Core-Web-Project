@@ -1,0 +1,118 @@
+﻿@page
+@model RentACarWebApp.Pages.audia8luxuryModel
+@{
+	ViewData["Title"] = "Audi A8";
+}
+
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="audiluxuryfirsthead">Audi A8</h1>
+<h3 class="audiluxurysecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>Audi</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>A8</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Sedan</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>
+            Дизелов
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>Horse powers</th>
+        <td>
+            286 h.p
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>75 l</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+
+            May 2023
+        </td>
+    </tr>
+</table>
+
+<h1 class="audiluxurythirdhead">Gallery</h1>
+<img src="~/audiluxury.png" alt="audiluxury" id="audiluxury0" height="500" width="700" />
+<img src="~/audiluxury1.png" alt="audiluxury1" id="audiluxury1" height="500" width="700" />
+<img src="~/audiluxury2.png" alt="audiluxury2" id="audiluxury2" height="500" width="700" />
+<img src="~/audiluxury3.png" alt="audiluxury3" id="audiluxury3" height="500" width="700" />
+<img src="~/audiluxury4.png" alt="audiluxury4" id="audiluxury4" height="500" width="700" />
+<img src="~/audiluxury5.png" alt="audiluxury5" id="audiluxury5" height="500" width="700" />
+<h4 class="audiluxuryfourthhead">Locations - Pieces:</h4>
+<p class="audiluxuryfifthhead">Varna - 2</p>
+<p class="audiluxurysixthhead">Sofia - 1</p>
+<h4 class="audiluxuryseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

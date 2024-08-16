@@ -1,0 +1,118 @@
+﻿@page
+@model RentACarWebApp.Pages.bmw2grancoupeModel
+@{
+	ViewData["Title"] = "BMW 2 Gran Coupe";
+}
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="bmwsedanfirsthead">BMW 2 Gran Coupe</h1>
+<h3 class="bmwsedansecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>BMW</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>Gran Coupe</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Sedan</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>Gasoline</td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>75 l</td>
+    </tr>
+    <tr>
+        <th>
+            Fuel consumption
+        </th>
+        <td>7 l/100 km</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Engine displacement</th>
+        <td>2000 cm<sup>3</sup></td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+            June 2021
+        </td>
+    </tr>
+</table>
+
+<h1 class="bmwsedanthirdhead">Gallery</h1>
+<img src="~/bmwsedan.png" alt="bmwsedanpage" id="bmwsedanpage" height="500" width="700" />
+<img src="~/bmwsedan1.png" alt="bmwsedanpage1" id="bmwsedanpage1" height="500" width="700" />
+<img src="~/bmwsedan2.png" alt="bmwsedanpage2" id="bmwsedanpage2" height="500" width="700" />
+<img src="~/bmwsedan3.png" alt="bmwsedanpage3" id="bmwsedanpage3" height="500" width="700" />
+<img src="~/bmwsedan4.png" alt="bmwsedanpage4" id="bmwsedanpage4" height="500" width="700" />
+<img src="~/bmwsedan5.png" alt="bmwsedanpage5" id="bmwsedanpage5" height="500" width="700" />
+<h4 class="bmwsedanfourthhead">Locations - Pieces:</h4>
+<p class="bmwsedanfifthhead">Sofia - 3</p>
+<p class="bmwsedansixthhead">Varna - 4</p>
+<h4 class="bmwsedanseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

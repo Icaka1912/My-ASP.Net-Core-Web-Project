@@ -1,0 +1,114 @@
+﻿@page
+@model RentACarWebApp.Pages.bmwx4jeepModel
+@{
+	ViewData["Title"] = "BMW X4";
+}
+
+<style>
+     body {
+         background-color: blanchedalmond;
+         font-family: Arial, sans-serif;
+     }
+
+     table {
+         position: absolute;
+         left: -50px;
+         top: 200px;
+         width: 80%;
+         border: outset;
+         border-collapse: collapse;
+         margin: 25px 0;
+         font-size: 18px;
+         text-align: left;
+     }
+
+     th, td {
+         padding: 12px;
+         border-bottom: 1px solid black;
+     }
+
+     th, td {
+         background-color: white;
+     }
+</style>
+
+<h1 class="bmwjeepfirsthead">BMW X4</h1>
+<h3 class="bmwjeepsecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>BMW</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>X4</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Jeep</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>Gasoline</td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>85 l</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Engine displacement</th>
+        <td>2000 cm<sup>3</sup></td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+            May 2020
+        </td>
+    </tr>
+</table>
+
+<h1 class="bmwcombithirdhead">Gallery</h1>
+<img src="~/bmwjeep0.png" alt="bmwjeep" id="bmwjeep0" height="500" width="700" />
+<img src="~/bmwjeep1.png" alt="bmwjeep1" id="bmwjeep1" height="500" width="700" />
+<img src="~/bmwjeep2.png" alt="bmwjeep2" id="bmwjeep2" height="500" width="700" />
+<img src="~/bmwjeep3.png" alt="bmwjeep3" id="bmwjeep3" height="500" width="700" />
+<img src="~/bmwjeep4.png" alt="bmwjeep4" id="bmwjeep4" height="500" width="700" />
+<img src="~/bmwjeep5.png" alt="bmwjeep5" id="bmwjeep5" height="500" width="700" />
+<h4 class="bmwcombifourthhead">Locations - Pieces:</h4>
+<p class="bmwcombififthhead">Sofia - 4</p>
+<p class="bmwcombisixthhead">Varna - 3</p>
+<h4 class="bmwcombiseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@
+
+

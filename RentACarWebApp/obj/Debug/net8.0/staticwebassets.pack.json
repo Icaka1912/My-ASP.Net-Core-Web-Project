@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RentACarWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RentACarWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi1.png",
+      "PackagePath": "staticwebassets\\audicombi1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi2.png",
+      "PackagePath": "staticwebassets\\audicombi2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi3.png",
+      "PackagePath": "staticwebassets\\audicombi3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi4.png",
+      "PackagePath": "staticwebassets\\audicombi4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi5.png",
+      "PackagePath": "staticwebassets\\audicombi5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audicombi6.png",
+      "PackagePath": "staticwebassets\\audicombi6.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeep0.png",
+      "PackagePath": "staticwebassets\\audijeep0.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeeppage1.png",
+      "PackagePath": "staticwebassets\\audijeeppage1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeeppage2.png",
+      "PackagePath": "staticwebassets\\audijeeppage2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeeppage3.png",
+      "PackagePath": "staticwebassets\\audijeeppage3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeeppage4.png",
+      "PackagePath": "staticwebassets\\audijeeppage4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audijeeppage5.png",
+      "PackagePath": "staticwebassets\\audijeeppage5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury.png",
+      "PackagePath": "staticwebassets\\audiluxury.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury1.png",
+      "PackagePath": "staticwebassets\\audiluxury1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury2.png",
+      "PackagePath": "staticwebassets\\audiluxury2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury3.png",
+      "PackagePath": "staticwebassets\\audiluxury3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury4.png",
+      "PackagePath": "staticwebassets\\audiluxury4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audiluxury5.png",
+      "PackagePath": "staticwebassets\\audiluxury5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan.png",
+      "PackagePath": "staticwebassets\\audisedan.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan1.png",
+      "PackagePath": "staticwebassets\\audisedan1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan2.png",
+      "PackagePath": "staticwebassets\\audisedan2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan3.png",
+      "PackagePath": "staticwebassets\\audisedan3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan4.png",
+      "PackagePath": "staticwebassets\\audisedan4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\audisedan5.png",
+      "PackagePath": "staticwebassets\\audisedan5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi1.png",
+      "PackagePath": "staticwebassets\\bmwcombi1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi12.png",
+      "PackagePath": "staticwebassets\\bmwcombi12.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi2.png",
+      "PackagePath": "staticwebassets\\bmwcombi2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi3.png",
+      "PackagePath": "staticwebassets\\bmwcombi3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi4.png",
+      "PackagePath": "staticwebassets\\bmwcombi4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwcombi5.png",
+      "PackagePath": "staticwebassets\\bmwcombi5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep0.png",
+      "PackagePath": "staticwebassets\\bmwjeep0.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep1.png",
+      "PackagePath": "staticwebassets\\bmwjeep1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep2.png",
+      "PackagePath": "staticwebassets\\bmwjeep2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep3.png",
+      "PackagePath": "staticwebassets\\bmwjeep3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep4.png",
+      "PackagePath": "staticwebassets\\bmwjeep4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwjeep5.png",
+      "PackagePath": "staticwebassets\\bmwjeep5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury.png",
+      "PackagePath": "staticwebassets\\bmwluxury.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury1.png",
+      "PackagePath": "staticwebassets\\bmwluxury1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury2.png",
+      "PackagePath": "staticwebassets\\bmwluxury2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury3.png",
+      "PackagePath": "staticwebassets\\bmwluxury3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury4.png",
+      "PackagePath": "staticwebassets\\bmwluxury4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwluxury5.png",
+      "PackagePath": "staticwebassets\\bmwluxury5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan.png",
+      "PackagePath": "staticwebassets\\bmwsedan.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan1.png",
+      "PackagePath": "staticwebassets\\bmwsedan1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan2.png",
+      "PackagePath": "staticwebassets\\bmwsedan2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan3.png",
+      "PackagePath": "staticwebassets\\bmwsedan3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan4.png",
+      "PackagePath": "staticwebassets\\bmwsedan4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\bmwsedan5.png",
+      "PackagePath": "staticwebassets\\bmwsedan5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\carlogonav.png",
+      "PackagePath": "staticwebassets\\carlogonav.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\fifthpagefirstphoto.png",
+      "PackagePath": "staticwebassets\\fifthpagefirstphoto.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\fifthpagesecondphotooo.png",
+      "PackagePath": "staticwebassets\\fifthpagesecondphotooo.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstpagefirstphoto.png",
+      "PackagePath": "staticwebassets\\firstpagefirstphoto.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstpagepartnersphoto.png",
+      "PackagePath": "staticwebassets\\firstpagepartnersphoto.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstpagesecondphoto.png",
+      "PackagePath": "staticwebassets\\firstpagesecondphoto.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstphotoplovdiv.png",
+      "PackagePath": "staticwebassets\\firstphotoplovdiv.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstphotosofia.png",
+      "PackagePath": "staticwebassets\\firstphotosofia.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\firstphotovarna.png",
+      "PackagePath": "staticwebassets\\firstphotovarna.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\login.png",
+      "PackagePath": "staticwebassets\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi12.png",
+      "PackagePath": "staticwebassets\\mercedescombi12.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi3.png",
+      "PackagePath": "staticwebassets\\mercedescombi3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi4.png",
+      "PackagePath": "staticwebassets\\mercedescombi4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi5.png",
+      "PackagePath": "staticwebassets\\mercedescombi5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi6.png",
+      "PackagePath": "staticwebassets\\mercedescombi6.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombi7.png",
+      "PackagePath": "staticwebassets\\mercedescombi7.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombii.png",
+      "PackagePath": "staticwebassets\\mercedescombii.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombipage1.png",
+      "PackagePath": "staticwebassets\\mercedescombipage1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombipage2.png",
+      "PackagePath": "staticwebassets\\mercedescombipage2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombipage3.png",
+      "PackagePath": "staticwebassets\\mercedescombipage3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombipage4.png",
+      "PackagePath": "staticwebassets\\mercedescombipage4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedescombipage5.png",
+      "PackagePath": "staticwebassets\\mercedescombipage5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep.png",
+      "PackagePath": "staticwebassets\\mercedesjeep.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep1.png",
+      "PackagePath": "staticwebassets\\mercedesjeep1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep2.png",
+      "PackagePath": "staticwebassets\\mercedesjeep2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep3.png",
+      "PackagePath": "staticwebassets\\mercedesjeep3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep4.png",
+      "PackagePath": "staticwebassets\\mercedesjeep4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep5.png",
+      "PackagePath": "staticwebassets\\mercedesjeep5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeep6.png",
+      "PackagePath": "staticwebassets\\mercedesjeep6.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeeppage1.png",
+      "PackagePath": "staticwebassets\\mercedesjeeppage1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeeppage2.png",
+      "PackagePath": "staticwebassets\\mercedesjeeppage2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeeppage3.png",
+      "PackagePath": "staticwebassets\\mercedesjeeppage3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeeppage4.png",
+      "PackagePath": "staticwebassets\\mercedesjeeppage4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesjeeppage5.png",
+      "PackagePath": "staticwebassets\\mercedesjeeppage5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury.png",
+      "PackagePath": "staticwebassets\\mercedesluxury.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury03.png",
+      "PackagePath": "staticwebassets\\mercedesluxury03.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury04.png",
+      "PackagePath": "staticwebassets\\mercedesluxury04.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury05.png",
+      "PackagePath": "staticwebassets\\mercedesluxury05.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury06.png",
+      "PackagePath": "staticwebassets\\mercedesluxury06.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury07.png",
+      "PackagePath": "staticwebassets\\mercedesluxury07.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury1.png",
+      "PackagePath": "staticwebassets\\mercedesluxury1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury2.png",
+      "PackagePath": "staticwebassets\\mercedesluxury2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury22.png",
+      "PackagePath": "staticwebassets\\mercedesluxury22.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury3.png",
+      "PackagePath": "staticwebassets\\mercedesluxury3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury4.png",
+      "PackagePath": "staticwebassets\\mercedesluxury4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedesluxury5.png",
+      "PackagePath": "staticwebassets\\mercedesluxury5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan1.png",
+      "PackagePath": "staticwebassets\\mercedessedan1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan22.png",
+      "PackagePath": "staticwebassets\\mercedessedan22.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan2page1.png",
+      "PackagePath": "staticwebassets\\mercedessedan2page1.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan2page2.png",
+      "PackagePath": "staticwebassets\\mercedessedan2page2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan2page3.png",
+      "PackagePath": "staticwebassets\\mercedessedan2page3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan2page4.png",
+      "PackagePath": "staticwebassets\\mercedessedan2page4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedan2page5.png",
+      "PackagePath": "staticwebassets\\mercedessedan2page5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedanpage.png",
+      "PackagePath": "staticwebassets\\mercedessedanpage.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedanpage2.png",
+      "PackagePath": "staticwebassets\\mercedessedanpage2.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedanpage3.png",
+      "PackagePath": "staticwebassets\\mercedessedanpage3.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedanpage4.png",
+      "PackagePath": "staticwebassets\\mercedessedanpage4.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\mercedessedanpage5.png",
+      "PackagePath": "staticwebassets\\mercedessedanpage5.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\register.png",
+      "PackagePath": "staticwebassets\\register.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\secondphotoplovdiv.png",
+      "PackagePath": "staticwebassets\\secondphotoplovdiv.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\secondphotosofia.png",
+      "PackagePath": "staticwebassets\\secondphotosofia.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\secondphotovarna.png",
+      "PackagePath": "staticwebassets\\secondphotovarna.png"
+    },
+    {
+      "Id": "C:\\Users\\hrist\\OneDrive\\Работен плот\\RentACarWebApp\\RentACarWebApp\\wwwroot\\winner.png",
+      "PackagePath": "staticwebassets\\winner.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RentACarWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RentACarWebApp.props",
+      "PackagePath": "build\\RentACarWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RentACarWebApp.props",
+      "PackagePath": "buildMultiTargeting\\RentACarWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RentACarWebApp.props",
+      "PackagePath": "buildTransitive\\RentACarWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,114 @@
+﻿@page
+@model RentACarWebApp.Pages.mercedeseqc400jeepModel
+@{
+	ViewData["Title"] = "Mercedes-Benz EQC 400";
+}
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="mercedesjeepfirsthead">Mercedes-Benz EQC 400</h1>
+<h3 class="mercedesjeepsecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>Mercedes-Benz</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>EQC 400</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Jeep</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>
+            Electric
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>95 l</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Battery capacity [kWh]</th>
+        <td>85 kWh</td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+            February 2021
+        </td>
+    </tr>
+</table>
+
+<h1 class="mercedesjeepthirdhead">Gallery</h1>
+<img src="~/mercedesjeep.png" alt="mercedesjeeppage" id="mercedesjeeppage" height="500" width="700" />
+<img src="~/mercedesjeeppage1.png" alt="mercedesjeeppage1" id="mercedesjeeppage1" height="500" width="700" />
+<img src="~/mercedesjeeppage2.png" alt="mercedesjeeppage2" id="mercedesjeeppage2" height="500" width="700" />
+<img src="~/mercedesjeeppage3.png" alt="mercedesjeeppage3" id="mercedesjeeppage3" height="500" width="700" />
+<img src="~/mercedesjeeppage4.png" alt="mercedesjeeppage4" id="mercedesjeeppage4" height="500" width="700" />
+<img src="~/mercedesjeeppage5.png" alt="mercedesjeeppage5" id="mercedesjeeppage5" height="500" width="700" />
+<h4 class="mercedesjeepfourthhead">Locations - Pieces:</h4>
+<p class="mercedesjeepfifthhead">Plovdiv - 1</p>
+<p class="mercedesjeepsixthhead">Sofia - 1</p>
+<h4 class="mercedesjeepseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

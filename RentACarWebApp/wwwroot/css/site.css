@@ -1,0 +1,3353 @@
+.navbar-custom { /*up navigation*/
+    background-color: lightyellow;
+}
+
+.navbar { /*size navigation*/
+    position: page;
+    top: -40px;
+}
+
+.nav-link2 { /*left words in navigation*/
+    position: relative;
+    font-family: Arial;
+    font-size: large;
+    font-size: 23px;
+    left: -185px;
+    top: 20px;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 5px;
+    border-inline: double;
+    border-block-end: outset;
+    border-block-start: inset;
+}
+
+.nav-link { /*right words in navigation*/
+    position: relative;
+    border: double;
+    font-size: 15px;
+    top: 20px;
+    left: 90px;
+}
+
+.pb-3 { /*log in register size*/
+    position: relative;
+    top: -60px;
+}
+
+.navbar-brand { /*carlogonav*/
+    position: relative;
+    top: 21.5px;
+    left: -246px;
+    font-size: 29px;
+    color: black;
+}
+
+#winner-logo { /*winner logo*/
+    position: relative;
+    left: 987px;
+    top: 22px;
+}
+
+
+
+/*firstpage start here ->  */
+#firstpagefirstphoto { /*first image with the mercedes*/
+    position: absolute;
+    top: 95px;
+    left: 37px;
+    border: outset,20px;
+}
+
+.firstpagestart-firsthead { /*head of the first text and image*/
+    border: inset,10px;
+    position: absolute;
+    left: 950px;
+    top: 130px;
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.firstpage-firsttext { /*first text*/
+    border: outset,5px;
+    position: absolute;
+    left: 870px;
+    top: 220px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#firstpagesecondphoto { /*second image with the key image */
+    position: absolute;
+    top: 635px;
+    left: 605px;
+    border: outset,20px;
+}
+
+.firstpagestart-secondhead { /*head of the second text and image*/
+    border: inset,10px;
+    position: absolute;
+    left: -19px;
+    top: 670px;
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.firstpage-secondtext { /*second text*/
+    border: outset,5px;
+    position: absolute;
+    right: 840px;
+    top: 760px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#firstpagepartnersphoto { /*third image with the partners */
+    position: absolute;
+    top: 1180px;
+    left: 35px;
+    width: 650px;
+    height: 500px;
+    border: outset,20px;
+}
+
+.firstpagestart-thirdhead { /*head of the third text and image*/
+    border: inset,10px;
+    position: absolute;
+    left: 957px;
+    top: 1215px;
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.firstpage-thirdtext { /*third text*/
+    border: outset,5px;
+    position: absolute;
+    left: 840px;
+    top: 1310px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container2 { /* down privacy navigation text first page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top { /*size down privacy navigation first page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 1770px;
+}
+/*firstpage end here <-  */
+
+
+
+/*secondpage sedans start here -> */
+#mercedessedanpage{
+    position:absolute;
+    top:1000px;
+    left:-50px;
+    border:double;
+}
+
+#mercedessedanpage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedessedanpage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedessedanpage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedessedanpage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedessedanpage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#audisedanpage {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#audisedanpage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#audisedanpage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#audisedanpage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#audisedanpage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#audisedanpage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwsedanpage {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwsedanpage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwsedanpage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#bmwsedanpage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#bmwsedanpage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwsedanpage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedessedan2page {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedessedan2page1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedessedan2page2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedessedan2page3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedessedan2page4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedessedan2page5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+.container9 { /*down privacy navigation text sedans page*/
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top8 { /*size down privacy navigation sedans page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 2600px;
+}
+
+
+.mercedessedan2firsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedessedan2secondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedessedan2thirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedessedan2fourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedessedan2fifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedessedan2sixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedessedan2seventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.bmwsedanfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.bmwsedansecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.bmwsedanthirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.bmwsedanfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.bmwsedanfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.bmwsedansixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.bmwsedanseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.audisedanfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.audisedansecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.audisedanthirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.audisedanfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.audisedanfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.audisedansixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.audisedanseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.mercedessedanfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedessedansecondhead {
+    position: absolute;
+    border:outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedessedanthirdhead {
+    position: absolute;
+    border:outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedessedanfourthhead{
+    position:absolute;
+    top:400px;
+    font-size:30px;
+    left:1070px;
+    right:-63px;
+    border:outset;
+}
+
+.mercedessedanfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border:double
+}
+
+.mercedessedansixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border:double
+}
+
+.mercedessedanseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border:double
+}
+
+.mercedessedanhhead {
+    position: absolute;
+    top: 480px;
+    font-size: 30px;
+    left: 1150px;
+    right: -63px;
+    border: hidden
+}
+
+.sedansfirsthead {
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+
+.sedansfirstparagraph {
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+.image-container {
+    /*mercedes sedans */
+    position: relative;
+    background-color: white;
+    top: 250px;
+    left: -500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedessedan { /*mercedes sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container:hover #mercedessedan { /*mercedes sedans */
+    border-color: red;
+}
+
+.image-text { /*mercedes sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container:hover .image-text { /*mercedes sedans */
+    opacity: 1;
+}
+
+.image-text p { /*mercedes sedans */
+    margin: 5px 0;
+}
+
+.image-text strong { /*mercedes sedans */
+    font-size: 16px;
+}
+
+
+.image-container2 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#audisedan { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container2:hover #audisedan { /*audi sedans */
+    border-color: red;
+}
+
+.image-text2 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container2:hover .image-text2 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text2 p { /*audi sedans*/ 
+    margin: 5px 0;
+}
+
+.image-text2 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+
+
+
+
+.image-container3 { /*bmw sedans */
+    position: relative;
+    background-color: white;
+    top: -250px;
+    left: 500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#bmwsedan { /*bmw sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container3:hover #bmwsedan { /*bmw sedans */
+    border-color: red;
+}
+
+.image-text3 { /*bmw sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container3:hover .image-text3 { /*bmw sedans */
+    opacity: 1;
+}
+
+.image-text3 p { /*bmw sedans */
+    margin: 5px 0;
+}
+
+.image-text3 strong { /*bmw sedans*/ 
+    font-size: 16px;
+}
+
+
+.image-container4 {/* audi sedans */
+    position: relative;
+    background-color: white;
+    top: -170px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedessedan2 { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container4:hover #audisedan { /*audi sedans */
+    border-color: red;
+}
+
+.image-text4 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container4:hover .image-text4 {/* audi sedans */
+    opacity: 1;
+}
+
+.image-text4 p {/* audi sedans*/ 
+    margin: 5px 0;
+}
+
+.image-text4 strong { /*audi sedans*/ 
+    font-size: 16px;
+}
+
+.container8 {  /*down privacy navigation text sedans page*/
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top7 { /*size down privacy navigation sedans page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 140px;
+}
+
+/*secondpage sedans end here <- */
+
+
+/*secondpage coombi start here -> */
+#mercedescombipage {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombipage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedescombipage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedescombipage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombipage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombipage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#audicombi12 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#audicombi2 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#audicombi3 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#audicombi4 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#audicombi5 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#audicombi6 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwcombi12 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwcombi1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwcombi2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#bmwcombi3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#bmwcombi4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwcombi5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedescombi12 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombi3 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedescombi4 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedescombi5 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombi6 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedescombi7 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+.mercedescombifirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedescombisecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedescombithirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedescombifourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedescombififthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedescombisixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedescombiseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.audicombifirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.audicombisecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.audicombithirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.audicombifourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.audicombififthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.audicombisixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.audicombiseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.bmwcombifirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.bmwcombisecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.bmwcombithirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.bmwcombifourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.bmwcombififthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.bmwcombisixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.bmwcombiseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.mercedescombi2firsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedescombi2secondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedescombi2thirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedescombi2fourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedescombi2fifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedescombi2sixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedescombi2seventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+
+
+.combifirsthead {
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+
+.combifirstparagraph {
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+.image-container5 { /*mercedes sedans */
+    position: relative;
+    background-color: white;
+    top: 250px;
+    left: -500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedescombi { /*mercedes sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container5:hover #mercedescombi { /*mercedes sedans */
+    border-color: red;
+}
+
+.image-text5 { /*mercedes sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container5:hover .image-text5 { /*mercedes sedans */
+    opacity: 1;
+}
+
+.image-text5 p { /*mercedes sedans */
+    margin: 5px 0;
+}
+
+.image-text5 strong { /*mercedes sedans */
+    font-size: 16px;
+}
+
+
+.image-container6 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#audicombi { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container6:hover #audicombi { /*audi sedans */
+    border-color: red;
+}
+
+.image-text6 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container6:hover .image-text6 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text6 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text6 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+
+
+
+
+.image-container7 { /*bmw sedans */
+    position: relative;
+    background-color: white;
+    top: -250px;
+    left: 500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#bmwcombi { /*bmw sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container7:hover #bmwcombi { /*bmw sedans */
+    border-color: red;
+}
+
+.image-text7 { /*bmw sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container7:hover .image-text7 { /*bmw sedans */
+    opacity: 1;
+}
+
+.image-text7 p { /*bmw sedans */
+    margin: 5px 0;
+}
+
+.image-text7 strong { /*bmw sedans */
+    font-size: 16px;
+}
+
+
+.image-container8 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: -170px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedescombi2 { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container8:hover #mercedescombi2 { /*audi sedans */
+    border-color: red;
+}
+
+.image-text8 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container8:hover .image-text8 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text8 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text8 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+.container8 { /* down privacy navigation text sedans page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top7 { /*size down privacy navigation sedans page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 140px;
+}
+
+/*secondpage coombi end here <- */
+
+
+
+
+/*secondpage jeep start here -> */
+
+#mercedesjeeppage {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeeppage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesjeeppage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesjeeppage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeeppage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeeppage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#audijeeppage123 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#audijeeppage1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#audijeeppage2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#audijeeppage3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#audijeeppage4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#audijeeppage5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwjeep0 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwjeep1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwjeep2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#bmwjeep3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#bmwjeep4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwjeep5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+.mercedesjeepfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedesjeepsecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedesjeepthirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedesjeepfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedesjeepfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedesjeepsixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedesjeepseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.audijeepfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.audijeepsecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.audijeepthirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.audijeepfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.audijeepfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.audijeepsixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.audijeepseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.bmwjeepfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.bmwjeepsecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.bmwjeepthirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.bmwjeepfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.bmwjeepfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.bmwjeepsixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.bmwjeepseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+#mercedesjeep1 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeep22 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesjeep3 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesjeep4 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeep5 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesjeep6 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+.mercedesjeep2firsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedesjeep2secondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedesjeep2thirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedesjeep2fourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedesjeep2fifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedesjeep2sixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedesjeep2seventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+
+
+
+
+
+.jeepsfirsthead {
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+
+.jeepsfirstparagraph {
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+.image-container9 { /*mercedes sedans */
+    position: relative;
+    background-color: white;
+    top: 250px;
+    left: -500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedesjeep { /*mercedes sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container9:hover #mercedesjeep { /*mercedes sedans */
+    border-color: red;
+}
+
+.image-text9 { /*mercedes sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container9:hover .image-text9 { /*mercedes sedans */
+    opacity: 1;
+}
+
+.image-text9 p { /*mercedes sedans */
+    margin: 5px 0;
+}
+
+.image-text9 strong { /*mercedes sedans */
+    font-size: 16px;
+}
+
+
+.image-container10 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#audijeep { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container10:hover #audijeep { /*audi sedans */
+    border-color: red;
+}
+
+.image-text10 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container10:hover .image-text10 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text10 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text10 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+
+
+
+
+.image-container11 { /*bmw sedans */
+    position: relative;
+    background-color: white;
+    top: -250px;
+    left: 500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#bmwjeep { /*bmw sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container11:hover #bmwjeep { /*bmw sedans */
+    border-color: red;
+}
+
+.image-text11 { /*bmw sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container11:hover .image-text11 { /*bmw sedans */
+    opacity: 1;
+}
+
+.image-text11 p { /*bmw sedans */
+    margin: 5px 0;
+}
+
+.image-text11 strong { /*bmw sedans */
+    font-size: 16px;
+}
+
+
+.image-container12 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: -170px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedesjeep2 { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container12:hover #mercedesjeep2 { /*audi sedans */
+    border-color: red;
+}
+
+.image-text12 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container12:hover .image-text12 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text12 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text12 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+.container8 { /* down privacy navigation text sedans page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top7 { /*size down privacy navigation sedans page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 140px;
+}
+/*secondpage jeep end here <- */
+
+
+/*secondpage luxury cars start here -> */
+#mercedesluxury0 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesluxury22 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesluxury3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#audiluxury0 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#audiluxury1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#audiluxury2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#audiluxury3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#audiluxury4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#audiluxury5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwluxury0 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwluxury1 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#bmwluxury2 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#bmwluxury3 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#bmwluxury4 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#bmwluxury5 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesluxury02 {
+    position: absolute;
+    top: 1000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury03 {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesluxury04 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    border: double;
+}
+
+#mercedesluxury05 {
+    position: absolute;
+    top: 1500px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury06 {
+    position: absolute;
+    top: 2000px;
+    left: -50px;
+    border: double;
+}
+
+#mercedesluxury07 {
+    position: absolute;
+    top: 2000px;
+    left: 650px;
+    border: double;
+}
+
+.mercedesluxuryfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedesluxurysecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedesluxurythirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedesluxuryfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedesluxuryfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedesluxurysixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedesluxuryseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.audiluxuryfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.audiluxurysecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.audiluxurythirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.audiluxuryfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.audiluxuryfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.audiluxurysixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.audiluxuryseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.bmwluxuryfirsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.bmwluxurysecondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.bmwluxurythirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.bmwluxuryfourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.bmwluxuryfifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.bmwluxurysixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.bmwluxuryseventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+.mercedesluxury2firsthead {
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border: double
+}
+
+.mercedesluxury2secondhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 170px;
+}
+
+.mercedesluxury2thirdhead {
+    position: absolute;
+    border: outset;
+    left: 50px;
+    top: 900px;
+}
+
+.mercedesluxury2fourthhead {
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+    left: 1070px;
+    right: -63px;
+    border: outset;
+}
+
+.mercedesluxury2fifthhead {
+    position: absolute;
+    top: 450px;
+    font-size: 30px;
+    left: 1130px;
+    right: 21px;
+    border: double
+}
+
+.mercedesluxury2sixthhead {
+    position: absolute;
+    top: 510px;
+    font-size: 30px;
+    left: 1130px;
+    right: 40px;
+    border: double
+}
+
+.mercedesluxury2seventhhead {
+    position: absolute;
+    top: 570px;
+    font-size: 30px;
+    left: 1000px;
+    right: -100px;
+    border: double
+}
+
+
+
+
+
+
+
+.luxurycarsfirsthead {
+    position: absolute;
+    top: 50px;
+    left: 460px;
+}
+
+.luxurycarsfirstparagraph {
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+.image-container13 { /*mercedes sedans */
+    position: relative;
+    background-color: white;
+    top: 250px;
+    left: -500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedesluxury { /*mercedes sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container13:hover #mercedesluxury { /*mercedes sedans */
+    border-color: red;
+}
+
+.image-text13 { /*mercedes sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container13:hover .image-text13 { /*mercedes sedans */
+    opacity: 1;
+}
+
+.image-text13 p { /*mercedes sedans */
+    margin: 5px 0;
+}
+
+.image-text13 strong { /*mercedes sedans */
+    font-size: 16px;
+}
+
+
+.image-container14 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#audiluxury { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container14:hover #audiluxury { /*audi sedans */
+    border-color: red;
+}
+
+.image-text14 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container14:hover .image-text14 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text14 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text14 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+
+
+
+
+.image-container15 { /*bmw sedans */
+    position: relative;
+    background-color: white;
+    top: -250px;
+    left: 500px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#bmwluxury { /*bmw sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container15:hover #bmwluxury { /*bmw sedans */
+    border-color: red;
+}
+
+.image-text15 { /*bmw sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container15:hover .image-text15 { /*bmw sedans */
+    opacity: 1;
+}
+
+.image-text15 p { /*bmw sedans */
+    margin: 5px 0;
+}
+
+.image-text15 strong { /*bmw sedans */
+    font-size: 16px;
+}
+
+
+.image-container16 { /*audi sedans */
+    position: relative;
+    background-color: white;
+    top: -170px;
+    left: 0px;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#mercedesluxury2 { /*audi sedans */
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.image-container16:hover #mercedesluxury2 { /*audi sedans */
+    border-color: red;
+}
+
+.image-text16 { /*audi sedans */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-container16:hover .image-text16 { /*audi sedans */
+    opacity: 1;
+}
+
+.image-text16 p { /*audi sedans */
+    margin: 5px 0;
+}
+
+.image-text16 strong { /*audi sedans */
+    font-size: 16px;
+}
+
+.container8 { /* down privacy navigation text sedans page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top7 { /*size down privacy navigation sedans page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 140px;
+}
+/*secondpage luxury cars end here <- */
+
+
+
+/*thirdpage Sofia start here -> */
+#firstphotosofia { /*thirdpage Sofia first photo -> */
+    position: absolute;
+    top: 165px;
+    left: 950px;
+    border: outset,20px;
+}
+
+#secondphotosofia { /*thirdpage Sofia second photo -> */
+    position: absolute;
+    top: 165px;
+    left: -60px;
+    border: outset,20px;
+}
+
+.thirdpagestart-firstheadSofia { /*thirdpage Sofia first head -> */
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-secondheadSofia { /*thirdpage Sofia second head -> */
+    position: absolute;
+    top: 80px;
+    left: 180px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-firsttextSofia { /*thirdpage Sofia first text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 150px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagestart-secondtextSofia { /*thirdpage Sofia second text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 350px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagefirstlocationmapSofia { /*thirdpage Sofia first Location map -> */
+    position: absolute;
+    top: 600px;
+    border: outset,20px;
+    left: -50px;
+}
+
+.thirdpagestart-firsttextmapSofia { /*thirdpage Sofia first Location text -> */
+    position: absolute;
+    border: double;
+    left: 0px;
+    right: 833px;
+    top: 560px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagesecondlocationmapSofia { /*thirdpage Sofia second Location map -> */
+    position: absolute;
+    top: 600px;
+    border: outset,20px;
+    left: 740px;
+}
+
+.thirdpagestart-secondtextmapSofia { /*thirdpage Sofia second Location text -> */
+    position: absolute;
+    border: double;
+    left: 830px;
+    right: 42px;
+    top: 560px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagethirdlocationmapSofia { /*thirdpage Sofia third Location map -> */
+    position: absolute;
+    top: 1140px;
+    border: outset,20px;
+    left: 350px;
+}
+
+.thirdpagestart-thirdtextmapSofia { /*thirdpage Sofia third Location text -> */
+    position: absolute;
+    border: double;
+    left: 450px;
+    right: 432px;
+    top: 1100px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container5 { /* down privacy navigation text first page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top4 { /*size down privacy navigation first page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 1680px;
+}
+/*thirdpage Sofia end here <- */
+
+
+
+
+/*thirdpage Plovdiv start here -> */
+#firstphotoplovdiv { /*thirdpage Plovdiv first photo -> */
+    position: absolute;
+    top: 160px;
+    left: 910px;
+    border: outset,20px;
+}
+
+#secondphotoplovdiv { /*thirdpage Plovdiv second photo -> */
+    position: absolute;
+    top: 160px;
+    left: -110px;
+    border: outset,20px;
+}
+
+.thirdpagestart-firstheadPlovdiv { /*thirdpage Plovdiv first head -> */
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-secondheadPlovdiv { /*thirdpage Plovdiv second head -> */
+    position: absolute;
+    top: 80px;
+    left: 180px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-firsttextPlovdiv { /*thirdpage Plovdiv first text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 150px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagestart-secondtextPlovdiv { /*thirdpage plovdiv second text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 350px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagefirstlocationmapPlovdiv { /*thirdpage Plovdiv first Location map -> */
+    position: absolute;
+    top: 710px;
+    border: outset,20px;
+    left: -50px;
+}
+
+.thirdpagestart-firsttextmapPlovdiv { /*thirdpage Plovdiv first Location text -> */
+    position: absolute;
+    border: double;
+    left: -70px;
+    right: 731px;
+    top: 670px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagesecondlocationmapPlovdiv { /*thirdpage Plovdiv second Location map -> */
+    position: absolute;
+    top: 710px;
+    border: outset,20px;
+    left: 740px;
+}
+
+.thirdpagestart-secondtextmapPlovdiv { /*thirdpage Plovdiv second Location text -> */
+    position: absolute;
+    border: double;
+    left: 790px;
+    right: -17px;
+    top: 670px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagethirdlocationmapPlovdiv { /*thirdpage Plovdiv third Location map -> */
+    position: absolute;
+    top: 1250px;
+    border: outset,20px;
+    left: 350px;
+}
+
+.thirdpagestart-thirdtextmapPlovdiv { /*thirdpage Plovdiv third Location text -> */
+    position: absolute;
+    border: double;
+    left: 555px;
+    right: 546px;
+    top: 1210px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container6 { /* down privacy navigation text first page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top5 { /*size down privacy navigation first page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 1790px;
+}
+/*thirdpage Plovdiv end here -> */
+
+
+
+/*thirdpage Varna start here -> */
+#firstphotovarna { /*thirdpage Varna first photo -> */
+    position: absolute;
+    top: 185px;
+    left: 930px;
+    border: outset,20px;
+}
+
+#secondphotovarna { /*thirdpage Varna second photo -> */
+    position: absolute;
+    top: 185px;
+    left: -75px;
+    border: outset,20px;
+}
+
+.thirdpagestart-firstheadVarna { /*thirdpage Varna first head -> */
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-secondheadVarna { /*thirdpage Varna second head -> */
+    position: absolute;
+    top: 80px;
+    left: 180px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thirdpagestart-firsttextVarna { /*thirdpage Varna first text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 150px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagestart-secondtextVarna { /*thirdpage Varna second text -> */
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    top: 350px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagefirstlocationmapVarna { /*thirdpage Varna first Location map -> */
+    position: absolute;
+    top: 700px;
+    border: outset,20px;
+    left: -50px;
+}
+
+.thirdpagestart-firsttextmapVarna { /*thirdpage Varna first Location text -> */
+    position: absolute;
+    border: double;
+    left: 55px;
+    right: 843px;
+    top: 660px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagesecondlocationmapVarna { /*thirdpage Varna second Location map -> */
+    position: absolute;
+    top: 700px;
+    border: outset,20px;
+    left: 740px;
+}
+
+.thirdpagestart-secondtextmapVarna { /*thirdpage Varna second Location text -> */
+    position: absolute;
+    border: double;
+    left: 850px;
+    right: 59px;
+    top: 660px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thirdpagethirdlocationmapVarna { /*thirdpage Varna third Location map -> */
+    position: absolute;
+    top: 1240px;
+    border: outset,20px;
+    left: 350px;
+}
+
+.thirdpagestart-thirdtextmapVarna { /*thirdpage Varna third Location text -> */
+    position: absolute;
+    border: double;
+    left: 540px;
+    right: 524px;
+    top: 1200px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container7 { /* down privacy navigation text first page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+
+.border-top6 { /*size down privacy navigation first page */
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 1780px;
+}
+/*thirdpage Varna end here -> */
+
+
+
+
+/*fifthpage start here -> */
+.fifthpagefirstheadAboutus { /*fifthpage first head About us */
+    position: absolute;
+    top: 140px;
+    left: 140px;
+    border: outset,5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fifthpagefirsttextAboutus { /*fifthpage first text About us */
+    position: absolute;
+    top: 230px;
+    right: 800px;
+    border: inset,10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#fifthpagefirstphoto { /*fifthpage first photo About us */
+    position: absolute;
+    top: 90px;
+    left: 665px;
+    border: outset,20px;
+}
+
+.fifthpagesecondheadAboutus { /*fifthpage second head About us */
+    position: absolute;
+    top: 690px;
+    left: 930px;
+    border: outset,5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fifthpagesecondtextAboutus { /*fifthpage second text About us */
+    position: absolute;
+    top: 780px;
+    left: 750px;
+    border: inset,10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#fifthpagesecondphoto { /*fifthpage second photo About us */
+    position: absolute;
+    top: 640px;
+    left: -20px;
+    border: outset,20px;
+}
+
+.border-top3 { /*size down privacy navigation fifth page*/
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 1180px;
+}
+
+.container4 { /* down privacy navigation text fifth page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+/*fifthpage end here <- */
+
+
+
+/*sixthpage start here -> */
+.sixthpagefirsthead { /*sixthpage first head Contacts*/
+    position: absolute;
+    top: 20px;
+    left: 140px;
+}
+
+.sixthpagesecondhead { /*sixthpage second head Contacts-comments*/
+    position: absolute;
+    top: 100px;
+    left: -20px;
+}
+
+.sixthpagefirstparagraph { /*sixthpage first paragraph*/
+    position: absolute;
+    top: 140px;
+    left: 100px;
+    font-size: 18px;
+}
+
+.sixthpagethirdhead { /*sixthpage third head Contacts work hours*/
+    position: absolute;
+    top: 220px;
+    left: 140px;
+}
+
+.sixthpagesecondparagraph { /*sixthpage second paragraph*/
+    position: absolute;
+    top: 265px;
+    left: 95px;
+    font-size: 18px;
+}
+
+.sixthpagefourthhead { /*sixthpage fourth head contacts us*/
+    position: absolute;
+    top: 340px;
+    left: 120px;
+}
+
+.sixthpagethirdparagraph { /*sixthpage third paragraph*/
+    position: absolute;
+    top: 375px;
+    left: 80px;
+    font-size: 18px;
+}
+
+.sixthpagefourthparagraph { /*sixthpage fourth paragraph*/
+    position: absolute;
+    top: 410px;
+    left: 60px;
+    font-size: 18px;
+}
+
+.sixthpagefifthparagraph { /*sixthpage fifth paragraph*/
+    position: absolute;
+    top: 445px;
+    left: 25px;
+    font-size: 18px;
+}
+
+.sixthpagelocationmap { /*sixthpage location map*/
+    position: absolute;
+    top: 60px;
+    border: outset,20px;
+    left: 696px;
+}
+
+.border-top2 { /*size down privacy navigation sixth page*/
+    position: relative;
+    background-color: lightgrey;
+    border-block-start: outset;
+    height: 100px;
+    top: 570px;
+}
+
+.container3 { /* down privacy navigation text sixth page */
+    position: absolute;
+    top: 36px;
+    left: 518px;
+}
+/*sixthpage end here <- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}

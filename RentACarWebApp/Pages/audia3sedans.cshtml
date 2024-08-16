@@ -1,0 +1,117 @@
+﻿@page
+@model RentACarWebApp.Pages.audia3sedansModel
+@{
+	ViewData["Title"] = "Audi A3 2.0 TDI";
+}
+
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="audisedanfirsthead">Audi A3 2.0 TDI</h1>
+<h3 class="audisedansecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>Audi</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>A3</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Sedan</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>Diesel</td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>55 l</td>
+    </tr>
+    <tr>
+        <th>
+            Fuel consumption
+        </th>
+        <td>4.5 l/100 km</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Engine displacement</th>
+        <td>2000 cm<sup>3</sup></td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>January 2022</td>
+    </tr>
+</table>
+
+<h1 class="audisedanthirdhead">Gallery</h1>
+<img src="~/audisedan.png" alt="audisedanpage" id="audisedanpage" height="500" width="700" />
+<img src="~/audisedan1.png" alt="audisedanpage1" id="audisedanpage1" height="500" width="700" />
+<img src="~/audisedan2.png" alt="audisedanpage2" id="audisedanpage2" height="500" width="700" />
+<img src="~/audisedan3.png" alt="audisedanpage3" id="audisedanpage3" height="500" width="700" />
+<img src="~/audisedan4.png" alt="audisedanpage4" id="audisedanpage4" height="500" width="700" />
+<img src="~/audisedan5.png" alt="audisedanpage5" id="audisedanpage5" height="500" width="700" />
+<h4 class="audisedanfourthhead">Locations - Pieces:</h4>
+<p class="audisedanfifthhead">Plovdiv - 4</p>
+<p class="audisedansixthhead">Varna - 2</p>
+<h4 class="audisedanseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@

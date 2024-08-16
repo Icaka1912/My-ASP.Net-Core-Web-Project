@@ -1,0 +1,120 @@
+﻿@page
+@model RentACarWebApp.Pages.bmw318combiModel
+@{
+	ViewData["Title"] = "BMW 318";
+}
+
+
+<style>
+    body {
+        background-color: blanchedalmond;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        position: absolute;
+        left: -50px;
+        top: 200px;
+        width: 80%;
+        border: outset;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        background-color: white;
+    }
+</style>
+
+<h1 class="bmwcombifirsthead">BMW 318</h1>
+<h3 class="bmwcombisecondhead">Technical specifications</h3>
+<table>
+    <tr>
+        <th>Brand</th>
+        <td>BMW</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>318</td>
+    </tr>
+    <tr>
+        <th>
+            Body type
+        </th>
+        <td>Station wagon</td>
+    </tr>
+    <tr>
+        <th>Fuel</th>
+        <td>Diesel</td>
+    </tr>
+    <tr>
+        <th>
+            Gear box
+        </th>
+        <td>Automatic</td>
+    </tr>
+    <tr>
+        <th>
+            Number of seats
+        </th>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>
+            Tank volume
+        </th>
+        <td>80 l</td>
+    </tr>
+    <tr>
+        <th>
+            Fuel consumption
+        </th>
+        <td>6 l/100 km</td>
+    </tr>
+    <tr>
+        <th>Doors</th>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>Engine displacement</th>
+        <td>2000 cm<sup>3</sup></td>
+    </tr>
+    <tr>
+        <th>
+            date of manufacture
+        </th>
+        <td>
+            February 2020
+        </td>
+    </tr>
+</table>
+
+<h1 class="bmwcombithirdhead">Gallery</h1>
+<img src="~/bmwcombi12.png" alt="bmwcombi" id="bmwcombi12" height="500" width="700" />
+<img src="~/bmwcombi1.png" alt="bmwcombi1" id="bmwcombi1" height="500" width="700" />
+<img src="~/bmwcombi2.png" alt="bmwcombi2" id="bmwcombi2" height="500" width="700" />
+<img src="~/bmwcombi3.png" alt="bmwcombi3" id="bmwcombi3" height="500" width="700" />
+<img src="~/bmwcombi4.png" alt="bmwcombi4" id="bmwcombi4" height="500" width="700" />
+<img src="~/bmwcombi5.png" alt="bmwcombi5" id="bmwcombi5" height="500" width="700" />
+<h4 class="bmwcombifourthhead">Locations - Pieces:</h4>
+<p class="bmwcombififthhead">Plovdiv - 2</p>
+<p class="bmwcombisixthhead">Varna - 1</p>
+<h4 class="bmwcombiseventhhead">For more information and to rent this car, call the indicated phone numbers or send an inquiry to our email address.</h4>
+
+
+
+@*down navigation start here-> *@
+<footer class="border-top8 footer text-muted">
+    <div class="container9">
+        &copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+@*down navigation end here <- *@
+

@@ -1,0 +1,36 @@
+﻿@page
+@model RentACarWebApp.Pages.ContactsModel
+@{
+	ViewData["Title"] = "Contacts";
+}
+<style>
+	body {
+		background-color: blanchedalmond;
+	}
+</style>
+
+@*text start here ->*@
+<h1 class = "sixthpagefirsthead">Contacts</h1>
+<h5 class ="sixthpagesecondhead">Please send your comments to the following address:</h5>
+<p class ="sixthpagefirstparagraph">autocars_2024@hotmail.com</p>
+	
+<h4 class="sixthpagethirdhead">Working hours</h4>
+<p class ="sixthpagesecondparagraph">Monday - Sunday: 09:00 - 19:00 </p>
+
+<h5 class="sixthpagefourthhead">You can contact us at:</h5>
+<p class="sixthpagethirdparagraph">Email:autocars_2024@hotmail.com</p>
+<p class="sixthpagefourthparagraph">Address:10 Iztochen Blvd., 4017 Plovdiv</p>
+<p class="sixthpagefifthparagraph">Roadside assistance: phone: 01/ 9 121 912 (24/7)</p>
+@*text end here <-*@
+
+@*map start here ->*@
+<iframe class="sixthpagelocationmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2958.4820301534696!2d24.761927575574166!3d42.139970748978556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14acd108593357fd%3A0x937015a78144aa35!2z0KHRgtCw0LTQuNC-0L0g4oCe0KXRgNC40YHRgtC-INCR0L7RgtC10LLigJw!5e0!3m2!1sbg!2sbg!4v1723310838013!5m2!1sbg!2sbg" width="600" height="450" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
+@*map end here <-*@
+
+@*down navigation start here-> *@
+<footer class="border-top2 footer text-muted">
+	<div class="container3">
+		&copy; 2024 - RentACarWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
+	</div>
+</footer>
+@*down navigation end here <- *@
