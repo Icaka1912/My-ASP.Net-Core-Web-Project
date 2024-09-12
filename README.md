@@ -15,10 +15,6 @@ About us
 Contacts
 ![Screenshot 2024-09-03 130100](https://github.com/user-attachments/assets/99c61fd5-f175-4ab4-b560-392902ca73f5)
 
-Register and Log in
-![Screenshot 2024-09-03 130216](https://github.com/user-attachments/assets/0168a663-bcb9-44fa-8408-048e57102188)
-![Screenshot 2024-09-03 130712](https://github.com/user-attachments/assets/b5fe8d0c-1f58-4769-9042-dc535c47d652)
-
 Car fleet
 Sedans
 ![Screenshot 2024-09-03 130342](https://github.com/user-attachments/assets/cb7e4836-bfb6-404e-a091-86226e60a360)
